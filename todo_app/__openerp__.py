@@ -1,5 +1,5 @@
 {
-    'name': 'To-Do Aplicacao',
+    'name': 'Aplicacao Tarefas A Fazer',
     'description': 'Gerenciar suas Tarefas pessoais com este modulo',
     'version': '8.0',
     'author': 'Milton Reis',
